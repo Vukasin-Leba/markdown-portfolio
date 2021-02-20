@@ -1,1 +1,1 @@
-https://github.com/Vukasin-Leba/github-upload.git
+![slika turske wizard macke](https://octodex.github.com/images/yaktocat.png)
