@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Volim **leb** i kad jedem leb _brzo_ ga jedem jer je leb **_dobar_** 
